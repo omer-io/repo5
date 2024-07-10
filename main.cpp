@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     cout << "Hello peeps!";
-    string your_name, your_age, your_gender;
+    string your_name, your_age, your_gender, your_school;
     cout << "Enter your name: ";
     cin >> your_name;
     cout << "\nYour name is: " << your_name;
@@ -13,5 +13,7 @@ int main() {
     cout << "\nEnter your gender: ";
     cin >> your_gender;
     cout << "\nYour gender is: " << your_gender;
-
+    cout << "\nEnter your school name: ";
+    cin >> your_school;
+    cout << "\nYour gender is: " << your_school;
 }
