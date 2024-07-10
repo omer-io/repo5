@@ -18,5 +18,5 @@ int main() {
     cout << "\nYour school name is: " << your_school;
     cout << "Hello, Noman";
     cout << "Hello, omer";
-    
+    cout << "I am design engineer at rakurai";
 }
