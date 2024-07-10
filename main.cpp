@@ -15,5 +15,8 @@ int main() {
     cout << "\nYour gender is: " << your_gender;
     cout << "\nEnter your school name: ";
     cin >> your_school;
-    cout << "\nYour gender is: " << your_school;
+    cout << "\nYour school name is: " << your_school;
+    cout << "Hello, Noman";
+    cout << "Hello, omer";
+    
 }
