@@ -16,4 +16,5 @@ int main() {
     cout << "\nEnter your school name: ";
     cin >> your_school;
     cout << "\nYour school name is: " << your_school;
+    cout << "Hello, Noman";
 }
