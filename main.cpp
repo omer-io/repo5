@@ -21,5 +21,9 @@ int main() {
     cout << "I am design engineer at rakurai";
     cout << "Malik Omer";
     cout<<"This is our latest commit about the repo5";
+<<<<<<< HEAD
     cout << "end of line";
+=======
+    cout<<"it is our las line";
+>>>>>>> e51b752 (the file is updatedmodjo)
 }
