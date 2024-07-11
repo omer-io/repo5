@@ -26,4 +26,5 @@ int main() {
 =======
     cout<<"it is our las line";
 >>>>>>> e51b752 (the file is updatedmodjo)
+    cout << "another line";
 }
