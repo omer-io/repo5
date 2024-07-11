@@ -20,4 +20,5 @@ int main() {
     cout << "Hello, omer";
     cout << "I am design engineer at rakurai";
     cout << "Malik Omer";
+    cout<<"This is our latest commit about the repo5";
 }
